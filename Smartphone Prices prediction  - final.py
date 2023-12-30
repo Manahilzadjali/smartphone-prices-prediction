@@ -3,7 +3,7 @@
 
 # # Problem Identification 
 
-# Our objective is to analyze the smartphone dataset to identify key factors influencing smartphone pricing. This data mining task will help uncover patterns and relationships between various specifications (such as RAM, storage, camera quality, and battery capacity) and their impact on the market price of the smartphones. This analysis is crucial for manufacturers and retailers to strategize product pricing and features, aligning them with market trends and consumer preferences.
+# My objective is to analyze the smartphone dataset to identify key factors influencing smartphone pricing. This data mining task will help uncover patterns and relationships between various specifications (such as RAM, storage, camera quality, and battery capacity) and their impact on the market price of the smartphones. This analysis is crucial for manufacturers and retailers to strategize product pricing and features, aligning them with market trends and consumer preferences.
 
 # 
 # # Data Loading and Initial Processing
